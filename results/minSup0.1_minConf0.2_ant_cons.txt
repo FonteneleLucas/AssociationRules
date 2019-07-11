@@ -1,0 +1,5 @@
+
+{PT_Width: 0.2} -> {Class: Iris-setosa} (conf: 1.000, supp: 0.187, lift: 3.000, conv: 666666666.667)
+{Class: Iris-setosa} -> {PT_Width: 0.2} (conf: 0.560, supp: 0.187, lift: 3.000, conv: 1.848)
+
+Process finished with exit code 0
