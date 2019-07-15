@@ -1,4 +1,6 @@
+Regras de tamanho 2, ou seja 1 elemento no antecedente e 1 no consequente da regra, com minsup=0.0 e minconf=0.01
 
+C:\Users\Lucas\AppData\Local\Programs\Python\Python36-32\python.exe C:/Users/Lucas/PycharmProjects/machine_learning/machineLearning.py
 {PT_Width: 1.8} -> {Class: Iris-versicolor} (conf: 0.083, supp: 0.007, lift: 0.250, conv: 0.727)
 {Class: Iris-versicolor} -> {PT_Width: 1.8} (conf: 0.020, supp: 0.007, lift: 0.250, conv: 0.939)
 {SP_Width: 3.4} -> {Class: Iris-versicolor} (conf: 0.083, supp: 0.007, lift: 0.250, conv: 0.727)
